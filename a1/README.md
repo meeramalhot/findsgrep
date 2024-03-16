@@ -1,6 +1,5 @@
 finds program
 support for parenthesis
-does not take wildcards within parenthesis
 
 call using:
 ./finds -p pathname [-f c|h|S] [-l] -s s
