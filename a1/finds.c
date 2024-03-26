@@ -2,7 +2,6 @@
 #include <unistd.h>
 #include <string.h>
 #include <dirent.h>
-#include <limits.h>
 #include <stdlib.h>
 #include <stdbool.h>
 #include "apue.h"
